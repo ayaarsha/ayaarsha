@@ -1,16 +1,27 @@
-### Hi there 👋
+# BioData
 
-<!--
-**ayaarsha/ayaarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
+- **Name:** Your Name
+- **Username:** Your Username
+- **Age:** Your Age
+- **Location:** Your Location
 
-Here are some ideas to get you started:
+## Education
+- **Degree:** Your Degree
+- **Institution:** Name of Institution
+- **Year of Graduation:** Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience
+- **Position:** Your Position
+- **Company:** Company Name
+- **Duration:** Duration of Employment
+
+## Skills
+- Skill 1
+- Skill 2
+- Skill 3
+
+## Interests
+- Interest 1
+- Interest 2
+- Interest 3
